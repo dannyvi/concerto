@@ -36,7 +36,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "peaksea"
+let g:colors_name = "concerto"
 
 " I don't want to abuse folding, but here folding is used to avoid confusion. 
 if &background=='light' 
@@ -510,9 +510,9 @@ elseif &background=='dark'
     " NOTE THIS IS IN THE COOL SECTION
     " hi CursorIM	ctermfg=16	ctermbg=201	cterm=NONE
     hi StatusLine	ctermfg=16	ctermbg=153	cterm=NONE
-    hi LineNr		ctermfg=249	ctermbg=NONE	cterm=NONE
+    hi LineNr		ctermfg=238	ctermbg=NONE	cterm=NONE
     hi Question		ctermfg=16	ctermbg=186	cterm=NONE
-    hi ModeMsg		ctermfg=fg	ctermbg=18	cterm=NONE
+    hi ModeMsg		ctermfg=232	ctermbg=NONE	cterm=NONE
     hi VisualNOS	ctermfg=fg	ctermbg=18	cterm=NONE
     hi SpecialKey	ctermfg=153	ctermbg=NONE	cterm=NONE
     hi NonText		ctermfg=69	ctermbg=233	cterm=NONE
@@ -530,7 +530,7 @@ elseif &background=='dark'
     hi DiffChange	ctermfg=NONE	ctermbg=90	cterm=NONE
     hi DiffDelete	ctermfg=69	ctermbg=234	cterm=NONE
     hi DiffText		ctermfg=16	ctermbg=150	cterm=NONE
-    hi SignColumn	ctermfg=254	ctermbg=28	cterm=NONE
+    hi SignColumn	ctermfg=254	ctermbg=234	cterm=NONE
     hi IncSearch	ctermfg=White	ctermbg=DarkRed	cterm=NONE
     hi StatusLineNC	ctermfg=16	ctermbg=250	cterm=NONE
     hi VertSplit	ctermfg=16	ctermbg=250	cterm=NONE
