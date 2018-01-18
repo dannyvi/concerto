@@ -84,7 +84,7 @@ if &background=='light'
   hi DiffText		guifg=NONE	guibg=#c0e080	gui=NONE
   hi SignColumn		guifg=fg	guibg=#90e090	gui=NONE
 
-  hi IncSearch		guifg=White	guibg=DarkRed	gui=NONE
+  hi IncSearch		guifg=White	guibg=Red	gui=NONE
   hi StatusLineNC	guifg=fg	guibg=#c0c0c0	gui=NONE
   hi VertSplit		guifg=fg	guibg=#c0c0c0	gui=NONE
   hi Underlined		guifg=#6a5acd	guibg=NONE	gui=underline
@@ -504,7 +504,7 @@ elseif &background=='dark'
     hi Special		ctermfg=179	ctermbg=NONE	cterm=NONE
     hi Error		ctermfg=209	ctermbg=NONE	cterm=NONE
     hi Todo		ctermfg=88	ctermbg=186	cterm=NONE
-    hi Search		ctermfg=White	ctermbg=DarkRed	cterm=NONE
+    hi Search		ctermfg=White	ctermbg=Red	cterm=NONE
     hi Visual		ctermfg=16	ctermbg=153	cterm=NONE
     hi Cursor		ctermfg=16	ctermbg=46	cterm=NONE
     " NOTE THIS IS IN THE COOL SECTION
@@ -526,12 +526,12 @@ elseif &background=='dark'
     hi WildMenu		ctermfg=16	ctermbg=186	cterm=NONE
     hi Folded		ctermfg=NONE	ctermbg=DarkGrey cterm=NONE
     hi FoldColumn	ctermfg=DarkGrey ctermbg=NONE cterm=NONE
-    hi DiffAdd		ctermfg=NONE	ctermbg=18	cterm=NONE
-    hi DiffChange	ctermfg=NONE	ctermbg=90	cterm=NONE
-    hi DiffDelete	ctermfg=69	ctermbg=234	cterm=NONE
+    hi DiffAdd		ctermfg=NONE	ctermbg=65	cterm=NONE
+    hi DiffChange	ctermfg=NONE	ctermbg=95	cterm=NONE
+    hi DiffDelete	ctermfg=69	ctermbg=67	cterm=NONE
     hi DiffText		ctermfg=16	ctermbg=150	cterm=NONE
     hi SignColumn	ctermfg=254	ctermbg=234	cterm=NONE
-    hi IncSearch	ctermfg=White	ctermbg=DarkRed	cterm=NONE
+    hi IncSearch	ctermfg=White	ctermbg=Red	cterm=NONE
     hi StatusLineNC	ctermfg=16	ctermbg=250	cterm=NONE
     hi VertSplit	ctermfg=16	ctermbg=250	cterm=NONE
     hi Underlined	ctermfg=111	ctermbg=NONE	cterm=underline 
