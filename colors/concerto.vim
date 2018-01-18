@@ -562,7 +562,7 @@ elseif &background=='dark'
 
       hi CursorColumn	ctermfg=NONE	ctermbg=88	cterm=NONE
       hi CursorLine	ctermfg=NONE	ctermbg=NONE	cterm=underline
-      hi MatchParen	ctermfg=NONE	ctermbg=90
+      hi MatchParen	ctermfg=234	ctermbg=42
       hi TabLine	cterm=underline  
       hi TabLineFill	cterm=underline  
       hi Underlined	cterm=underline  
