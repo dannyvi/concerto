@@ -396,7 +396,7 @@ elseif &background=='dark'
       hi TabLineSel	ctermfg=fg	ctermbg=bg
       hi CursorLine	ctermfg=NONE	ctermbg=bg		cterm=underline
 
-      hi MatchParen	ctermfg=NONE	ctermbg=DarkMagenta
+      hi MatchParen	ctermfg=NONE	ctermbg=210
     endif
     if &t_Co==8
       " 8 colour terminal support, this assumes 16 colour is available through
@@ -502,7 +502,7 @@ elseif &background=='dark'
     hi PreProc		ctermfg=138	ctermbg=NONE	cterm=NONE
     hi Type		ctermfg=153	ctermbg=NONE	cterm=NONE
     hi Special		ctermfg=179	ctermbg=NONE	cterm=NONE
-    hi Error		ctermfg=209	ctermbg=NONE	cterm=NONE
+    hi Error		ctermfg=52	ctermbg=NONE	cterm=NONE
     hi Todo		ctermfg=88	ctermbg=186	cterm=NONE
     hi Search		ctermfg=White	ctermbg=Red	cterm=NONE
     hi Visual		ctermfg=16	ctermbg=153	cterm=NONE
@@ -562,7 +562,7 @@ elseif &background=='dark'
 
       hi CursorColumn	ctermfg=NONE	ctermbg=88	cterm=NONE
       hi CursorLine	ctermfg=NONE	ctermbg=NONE	cterm=underline
-      hi MatchParen	ctermfg=234	ctermbg=42
+      hi MatchParen	ctermfg=234	ctermbg=210
       hi TabLine	cterm=underline  
       hi TabLineFill	cterm=underline  
       hi Underlined	cterm=underline  
