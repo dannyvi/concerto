@@ -1,6 +1,3 @@
-$project
-========
-
 Vim colorscheme **concerto**
 ============================
 
@@ -46,4 +43,8 @@ Inside Vim, you use:
 
     :colorscheme molokai
 
+- - -
+
 ![img](vimshotcuts.png)
+
+- - -
