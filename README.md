@@ -19,8 +19,12 @@ if you [use vim + pathogen] (http://vimcasts.org/episodes/synchronizing-plugins-
 
 if you [use vim + vundle](https://github.com/gmarik/vundle)
 
-    " add to .vimrc
+    add to `.vimrc`:
+
     Plugin 'dannyvi/vim-colorscheme'
+    
+    then Inside the vim:
+
     :PluginInstall
 
 if you aren't so clever just get all the files in `colors/*.vim` into
