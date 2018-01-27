@@ -41,7 +41,7 @@ To change the colorscheme of Vim, add to your `.vimrc`:
 
 Inside Vim, you use:
 
-    :colorscheme molokai
+    :colorscheme concerto
 
 See
 ---
