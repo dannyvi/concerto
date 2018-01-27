@@ -40,4 +40,4 @@ Inside Vim, you use:
 
     :colorscheme molokai
 
-![img](./vishotcuts.png)
+![img](vishotcuts.png)
