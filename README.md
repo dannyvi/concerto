@@ -12,7 +12,7 @@ Basic install - very simple (\*nix or cygwin install)
     mkdir ~/.vim
     git clone https://github.com/dannyvi/vim-colorscheme.git ~/.vim
 
-if you [use vim + pathogen] (http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
+if you [use vim + pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 
     cd ~/.vim
     git submodule add https://github.com/dannyvi/vim-colorscheme.git bundle/colorschemes
