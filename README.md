@@ -43,7 +43,8 @@ Inside Vim, you use:
 
     :colorscheme molokai
 
-- - -
+See
+---
 
 ![img](vimshotcuts.png)
 
