@@ -1,10 +1,12 @@
-" Vim color file --- psc (peak sea color) "Lite version"
-" Maintainer:	Pan, Shi Zhu <Go to the following URL for my email>
-" URL:		http://vim.sourceforge.net/scripts/script.php?script_id=760
-" Last Change:	5 Feb 2010
-" Version:	3.4
+" Vim color file --- Concerto
+" Maintainer:	Dannyvi <Go to the following URL for my email>
+" URL:		https://github.com/dannyvi/vim-colorscheme
+" Last Change:	Jan 26 2018
+" Version:	0.2.5
 "
 "	Comments and e-mails are welcomed, thanks.
+"
+"       The concerto color is modified from the following: 
 "
 "	The peaksea color is simply a colorscheme with the default settings of
 "	the original ps_color. Lite version means there's no custom settings
