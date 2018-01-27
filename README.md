@@ -1,3 +1,6 @@
+$project
+========
+
 Vim colorscheme *concerto*
 ==========================
 
@@ -19,11 +22,11 @@ if you [use vim + pathogen] (http://vimcasts.org/episodes/synchronizing-plugins-
 
 if you [use vim + vundle](https://github.com/gmarik/vundle)
 
-    add to `.vimrc`:
+- add to `.vimrc`:
 
     Plugin 'dannyvi/vim-colorscheme'
     
-    then Inside the vim:
+- then Inside the vim:
 
     :PluginInstall
 
