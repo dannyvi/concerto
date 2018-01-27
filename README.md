@@ -1,8 +1,8 @@
 $project
 ========
 
-Vim colorscheme *concerto*
-==========================
+Vim colorscheme **concerto**
+============================
 
 This colorscheme is moditied from another scheme named Peaksea and currently finished
  the terminal 256 colors of the dark background part.
@@ -10,7 +10,7 @@ This colorscheme is moditied from another scheme named Peaksea and currently fin
 Installation
 ------------
 
-Basic install - very simple (*nix or cygwin install)
+Basic install - very simple (\*nix or cygwin install)
 
     mkdir ~/.vim
     git clone https://github.com/dannyvi/vim-colorscheme.git ~/.vim
@@ -21,14 +21,13 @@ if you [use vim + pathogen] (http://vimcasts.org/episodes/synchronizing-plugins-
     git submodule add https://github.com/dannyvi/vim-colorscheme.git bundle/colorschemes
 
 if you [use vim + vundle](https://github.com/gmarik/vundle)
-
 - add to `.vimrc`:
 
-    Plugin 'dannyvi/vim-colorscheme'
+        Plugin 'dannyvi/vim-colorscheme'
     
 - then Inside the vim:
 
-    :PluginInstall
+        :PluginInstall
 
 if you aren't so clever just get all the files in `colors/*.vim` into
   `~/.vim/colors`
